@@ -1,0 +1,45 @@
+# Henry's Alchemy Bench
+
+A searchable reference for every alchemy recipe in **Kingdom Come: Deliverance II**,
+with the brewing method matched to your alchemy level and perks.
+
+The recipe list stays on screen at all times with a search box above it. Pick a
+potion and you get its ingredients, the numbered brewing steps, how many
+portions it makes and what each quality tier does — all adjusted to the build
+you enter at the bottom of the list.
+
+## What the build controls change
+
+| Control | Effect on what you see |
+| --- | --- |
+| **Alchemy level** | Most recipes have a slow method and a faster one that only works from a given level. The page shows the best method you qualify for and keeps the other behind a disclosure. |
+| **Secret of Secrets** | Unlocks Henry's-level quality, so the Effects list marks a different tier as your ceiling. Also raises both gunpowder yields. |
+| **Secret of Matter I / II** | Picks the yield column, shown as a single number instead of a table. |
+| **Dark Arts Apprentice** | Rewrites the dried-herb rule (all herbs may be dried between 00:00 and 04:30) and highlights the shortcut notes that depend on a mistake-forgiving perk. |
+
+Every control has an ⓘ button explaining what it does. Your build is saved in
+the browser and shared across open tabs.
+
+## Development
+
+```bash
+npm install
+npm run dev      # http://localhost:3000
+npm run build    # production build — 27 static recipe pages
+npm run lint
+```
+
+Deploys to Vercel with no configuration: import the repository and build. There
+is no database, no API and no runtime data fetching — every page is static.
+
+## Credits
+
+All recipes, brewing steps and timings come from
+**[Henry's Moste Potente Potions](https://github.com/Omricon/Henrys-Moste-Potente-Potions)**
+by **Omricon** (guide v1.2, tested against game version 1.1.1-11377-release_1_1).
+This app is only a reader for that guide — the research behind it is entirely
+theirs. The upstream repository does not carry a licence, so please check with
+the author before publishing a copy of this site.
+
+Kingdom Come: Deliverance II is a trademark of Warhorse Studios. This is an
+unofficial fan project with no affiliation.

@@ -1,0 +1,2093 @@
+[
+  {
+    "slug": "aesop",
+    "no": 1,
+    "name": "Aesop",
+    "liquid": "Spirits",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Belladonna"
+      },
+      {
+        "qty": 1,
+        "name": "Boar’s Tusk"
+      },
+      {
+        "qty": 2,
+        "name": "Comfrey"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 18,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Put **x2 Comfrey** into **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "Add **x1 Boar’s Tusk** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Belladonna** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the **Raise Cauldron** button",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Put **x2 Comfrey** into **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "Add **x1 Boar’s Tusk** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Belladonna** into the **Mortar** and **Grind** it",
+          "Put the contents of the **Mortar** into the **Dish**",
+          "**Raise** the **Cauldron**",
+          "Add the contents of the **Dish** to the **Cauldron**",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Increases your Horsemanship and Houndmaster skills by 3 for 6 hours. Animals pay less attention to Henry."
+      },
+      {
+        "quality": "Standard",
+        "text": "Increases your Horsemanship and Houndmaster skills by 3 for 12 hours. Animals pay less attention to Henry."
+      },
+      {
+        "quality": "Strong",
+        "text": "Increases your Horsemanship and Houndmaster skills by 5 for 12 hours. Dogs won't notice Henry at all, while other animals will take measurably longer to react to him."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Increases your Horsemanship and Houndmaster skills by 7 for 1 full day. Dogs won't notice Henry at all, while other animals will take measurably longer to react to him."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "aqua-vitalis",
+    "no": 2,
+    "name": "Aqua Vitalis",
+    "liquid": "Water",
+    "ingredients": [
+      {
+        "qty": 2,
+        "name": "Dandelion"
+      },
+      {
+        "qty": 1,
+        "name": "Marigold"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 12,
+        "uncertain": false,
+        "steps": [
+          "Add **Water** to the **Cauldron**",
+          "Add **x2 Dandelion** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Marigold** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Water** to the **Cauldron**",
+          "Add **x2 Dandelion** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Marigold** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "Wait until the **Hourglass** runs out",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "You lose 15% less Health when struck for 5 minutes."
+      },
+      {
+        "quality": "Standard",
+        "text": "You lose 15% less Health when struck for 10 minutes. If you're Bleeding, the effect is slowed by 10%."
+      },
+      {
+        "quality": "Strong",
+        "text": "You lose 50% less Health when struck for 10 minutes. If you're Bleeding, the effect is slowed by 50%."
+      },
+      {
+        "quality": "Henry's",
+        "text": "You lose 60% less Health when struck for 15 minutes. If you're Bleeding, the effect is slowed by 60%."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "artemisia",
+    "no": 3,
+    "name": "Artemisia",
+    "liquid": "Spirits",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Sage"
+      },
+      {
+        "qty": 2,
+        "name": "Wormwood"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 12,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Add **x1 Sage** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x2 Wormwood** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Add **x1 Sage** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x2 Wormwood** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "When the **Hourglass** is halfway, **Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Increases Strength by 2 for 10 minutes."
+      },
+      {
+        "quality": "Standard",
+        "text": "Increases Strength by 4 for 10 minutes."
+      },
+      {
+        "quality": "Strong",
+        "text": "Increases Strength by 6 for 10 minutes. In addition, attack and defence cost 20% less Stamina."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Increases Strength by 6 for 15 minutes. In addition, attack and defence cost 35% less Stamina."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "bane-poison",
+    "no": 4,
+    "name": "Bane Poison",
+    "liquid": "Wine",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Amanita Muscaria"
+      },
+      {
+        "qty": 2,
+        "name": "Belladonna"
+      },
+      {
+        "qty": 1,
+        "name": "Wormwood"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 14,
+        "uncertain": false,
+        "steps": [
+          "Add **Wine** to the **Cauldron**",
+          "Add **x1 Wormwood** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x2 Belladonna** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "Pump the **Bellows x1** time",
+          "Add **x1 Amanita Muscaria** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the **Raise Cauldron** button",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Wine** to the **Cauldron**",
+          "Add **x1 Wormwood** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x2 Belladonna** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "Pump the **Bellows x5** times",
+          "**Raise** the **Cauldron**",
+          "Add **x1 Amanita Muscaria** to the **Cauldron**",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Poisoned characters cannot run and lose 110 Health in 60 seconds."
+      },
+      {
+        "quality": "Standard",
+        "text": "Poisoned characters cannot run and lose 110 Health in 45 seconds."
+      },
+      {
+        "quality": "Strong",
+        "text": "Poisoned characters cannot run and lose 110 Health in 30 seconds."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Poisoned characters cannot run and lose 110 Health in 15 seconds."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "bowmans-brew",
+    "no": 5,
+    "name": "Bowman’s Brew",
+    "liquid": "Spirits",
+    "ingredients": [
+      {
+        "qty": 2,
+        "name": "Eyebright"
+      },
+      {
+        "qty": 1,
+        "name": "St. John’s Wort"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 28,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Add **x2 Eyebright** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 St. John’s Wort** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "Pump the **Bellows x1** time",
+          "**Raise** the **Cauldron**",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Add **x2 Eyebright** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "Wait until the **Hourglass** runs out",
+          "Put **x1 St. John’s Wort** into the **Mortar** and **Grind** it",
+          "Put the contents of the **Mortar** into the **Dish**",
+          "**Raise** the **Cauldron**",
+          "Add the contents of the **Dish** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Pump the **Bellows x5** times",
+          "**Raise** the **Cauldron**",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Increases your Marksmanship by 3 for 10 minutes."
+      },
+      {
+        "quality": "Standard",
+        "text": "Increases your Marksmanship by 3 and lowers Stamina drain from aiming by 20% for 10 minutes."
+      },
+      {
+        "quality": "Strong",
+        "text": "Increases your Marksmanship by 5 and lowers Stamina drain from aiming by 50% for 10 minutes."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Increases Marksmanship by 8 for 15 minutes. While the potion lasts, aiming does not cost Stamina at all."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "bucks-blood-potion",
+    "no": 6,
+    "name": "Buck’s Blood Potion",
+    "liquid": "Oil",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Comfrey"
+      },
+      {
+        "qty": 1,
+        "name": "Dandelion"
+      },
+      {
+        "qty": 1,
+        "name": "St. John’s Wort"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 28,
+        "uncertain": false,
+        "steps": [
+          "Add **Oil** to the **Cauldron**",
+          "Put **x1 St. John’s Wort** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "Add **x1 Comfrey** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Add **x1 Dandelion** to the **Cauldron**",
+          "Pump the **Bellows x1** times",
+          "**Raise** the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Oil** to the **Cauldron**",
+          "Put **x1 St. John’s Wort** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "Add **x1 Comfrey** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "Just before the **Hourglass** runs out, add **x1 Dandelion** to the **Cauldron**",
+          "Pump the **Bellows x5** times",
+          "**Raise** the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Increases Stamina by 25% for 20 minutes."
+      },
+      {
+        "quality": "Standard",
+        "text": "Increases Stamina by 30% for 20 minutes."
+      },
+      {
+        "quality": "Strong",
+        "text": "Increases Stamina by 30% and improves Stamina regeneration by 15% for 40 minutes."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Increases Stamina by 60% and improves Stamina regeneration by 30% for 1 hour."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "chamomile-decoction",
+    "no": 7,
+    "name": "Chamomile Decoction",
+    "liquid": "Wine",
+    "ingredients": [
+      {
+        "qty": 2,
+        "name": "Chamomile"
+      },
+      {
+        "qty": 1,
+        "name": "Sage"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 18,
+        "uncertain": false,
+        "steps": [
+          "Add **Wine** to the **Cauldron**",
+          "Put **x1 Sage** into the **Mortar** but do not grind it",
+          "Add **x2 Chamomile** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "**Grind** the contents of the **Mortar**",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the **Raise Cauldron** button",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Wine** to the **Cauldron**",
+          "Put **x1 Sage** into the **Mortar** and **Grind** it",
+          "Put the contents of the **Mortar** into the **Dish**",
+          "Add **x2 Chamomile** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Turn the **Hourglass**",
+          "Just before the **Hourglass** runs out, **Raise** the **Cauldron**",
+          "Add the contents of the **Dish** to the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "For 12 hours, sleep restores lost health at 200% efficiency."
+      },
+      {
+        "quality": "Standard",
+        "text": "For 24 hours, sleep restores lost health at 300% efficiency."
+      },
+      {
+        "quality": "Strong",
+        "text": "For 24 hours, sleep restores lost health at 300% efficiency and regenerates energy 200% faster."
+      },
+      {
+        "quality": "Henry's",
+        "text": "For 48 hours, sleep restores lost health at 500% efficiency and regenerates energy 300% faster."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "cockerel",
+    "no": 8,
+    "name": "Cockerel",
+    "liquid": "Spirits",
+    "ingredients": [
+      {
+        "qty": 2,
+        "name": "Mint"
+      },
+      {
+        "qty": 1,
+        "name": "Valerian"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 28,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Put **x2 Mint** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Add **x1 Valerian** to the **Cauldron**",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Put **x2 Mint** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "Just before the **Hourglass** runs out, add **x1 Valerian** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "Wait until the **Hourglass** runs out",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Current Energy +10."
+      },
+      {
+        "quality": "Standard",
+        "text": "Current Energy +20."
+      },
+      {
+        "quality": "Strong",
+        "text": "Current Energy +20. Your Energy drains 20% slower for 12 hours."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Current Energy +30. Your Energy drains 50% slower for 24 hours."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "digestive-potion",
+    "no": 9,
+    "name": "Digestive Potion",
+    "liquid": "Water",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Charcoal"
+      },
+      {
+        "qty": 1,
+        "name": "Nettle"
+      },
+      {
+        "qty": 2,
+        "name": "Thistle"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 16,
+        "uncertain": false,
+        "steps": [
+          "Add **Water** to the **Cauldron**",
+          "Add **x2 Thistle** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Charcoal** into the **Mortar** and **Grind** it",
+          "Put the contents of the **Mortar** into the **Dish**",
+          "Put **x1 Nettle** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "Add the contents of the **Dish** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the **Raise Cauldron** button",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Water** to the **Cauldron**",
+          "Add **x2 Thistle** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "When the **Hourglass** is halfway, put **x1 Nettle** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "When the **Hourglass** is halfway, **Raise** the **Cauldron**",
+          "Put **x1 Charcoal** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Cures food poisoning, but decreases Nourishment by 20."
+      },
+      {
+        "quality": "Standard",
+        "text": "Cures all poisons and increases Vitality by 1 for 10 minutes, but decreases Nourishment by 20."
+      },
+      {
+        "quality": "Strong",
+        "text": "Cures all poisons and increases Vitality by 2 for 10 minutes, but decreases Nourishment by 20."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Cures all poisons and increases Vitality by 3 for 20 minutes, but decreases Nourishment by 20."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "dollmaker-potion",
+    "no": 10,
+    "name": "Dollmaker Potion",
+    "liquid": "Spirits",
+    "ingredients": [
+      {
+        "qty": 2,
+        "name": "Herb Paris"
+      },
+      {
+        "qty": 1,
+        "name": "Valerian"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 18,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Add **x2 Herb Paris** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Valerian** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Add **x2 Herb Paris** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "Just before the **Hourglass** runs out, turn the **Hourglass** again**",
+          "When the **Hourglass** is halfway, put **x1 Valerian** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "When the **Hourglass** is halfway, **Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Victims cannot run and all their weapon skills are reduced by 3."
+      },
+      {
+        "quality": "Standard",
+        "text": "Victims cannot run, all their weapon skills are reduced by 3, and they gradually suffer 20 damage."
+      },
+      {
+        "quality": "Strong",
+        "text": "Victims cannot run, all their weapon skills are reduced by 4, and they gradually suffer 30 damage."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Victims cannot run, all their weapon skills are reduced by 5, and they gradually suffer 50 damage."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "embrocation",
+    "no": 11,
+    "name": "Embrocation",
+    "liquid": "Oil",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Boar’s Tusk"
+      },
+      {
+        "qty": 1,
+        "name": "Eyebright"
+      },
+      {
+        "qty": 1,
+        "name": "Poppy"
+      },
+      {
+        "qty": 1,
+        "name": "Valerian"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 18,
+        "uncertain": false,
+        "steps": [
+          "Add **Oil** to the **Cauldron**",
+          "Add **x1 Poppy** and **x1 Valerian** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Eyebright** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the **Raise Cauldron** button",
+          "Add **x1 Boar’s Tusk** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Oil** to the **Cauldron**",
+          "Add **x1 Poppy** and **x1 Valerian** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Eyebright** into the **Mortar** and **Grind** it",
+          "Put the contents of the **Mortar** into the **Dish**",
+          "**Raise** the **Cauldron**",
+          "Add the contents of the **Dish** to the **Cauldron**",
+          "Add **x1 Boar’s Tusk** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Adds 2 to Agility for 10 minutes."
+      },
+      {
+        "quality": "Standard",
+        "text": "Adds 4 to Agility and lowers the Stamina cost of sprinting by 10% for 10 minutes."
+      },
+      {
+        "quality": "Strong",
+        "text": "Adds 4 to Agility and lowers the Stamina cost of sprinting by 20% for 10 minutes."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Adds 6 to Agility and lowers the Stamina cost of sprinting by 30% for 10 minutes."
+      }
+    ],
+    "notes": [
+      "If you have a perk that allows for mistakes (or brew between 00:00-04:30 with the **Dark Arts Apprentice** perk), you can skip the step of raising and lowering the **Cauldron**, instead immediately proceed to adding **x1 Boar’s Tusk**. This will give x1 less than normal."
+    ]
+  },
+  {
+    "slug": "fever-tonic",
+    "no": 12,
+    "name": "Fever Tonic",
+    "liquid": "Wine",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Elderberry Leaves"
+      },
+      {
+        "qty": 3,
+        "name": "Feverfew"
+      },
+      {
+        "qty": 2,
+        "name": "Ginger"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Wine** to the **Cauldron**",
+          "Add **x3 Feverfew** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Elderberry Leaves** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the **Raise Cauldron** button",
+          "Add **x2 Ginger** to the **Cauldron**",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Standard",
+        "text": "Fever and related complications can often end in death. This tonic reduces fever if given in time."
+      }
+    ],
+    "notes": [
+      "Ingredients and recipe is for a quest",
+      "If your alchemy is below level 18, Henry will complain. The potion will still be brewed successfully with the same quantity of potions made."
+    ]
+  },
+  {
+    "slug": "fox",
+    "no": 13,
+    "name": "Fox",
+    "liquid": "Oil",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Belladonna"
+      },
+      {
+        "qty": 1,
+        "name": "Charcoal"
+      },
+      {
+        "qty": 1,
+        "name": "Nettle"
+      },
+      {
+        "qty": 1,
+        "name": "St. John’s Wort"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 14,
+        "uncertain": false,
+        "steps": [
+          "Add **Oil** to the **Cauldron**",
+          "Put **x1 Nettle** and **x1 St. John’s Wort** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Charcoal** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the **Raise Cauldron** button",
+          "Add **x1 Belladonna** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Oil** to the **Cauldron**",
+          "Put **x1 Nettle** and **x1 St. John’s Wort** the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Charcoal** into the **Mortar** and **Grind** it",
+          "Put the contents of the **Mortar** into the **Dish**",
+          "**Raise** the **Cauldron**",
+          "Add the contents of the **Dish** to the **Cauldron**",
+          "Add **x1 Belladonna** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Your Speech goes up by 3 for 12 hours."
+      },
+      {
+        "quality": "Standard",
+        "text": "Your Speech goes up by 3 and you can complete skill books much faster for 1 day."
+      },
+      {
+        "quality": "Strong",
+        "text": "Your Speech goes up by 5 and you can complete skill books much faster for 1 day."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Your Speech goes up by 7, you can complete skill books much faster, and you get a 50% boost to earned experience for 2 days."
+      }
+    ],
+    "notes": [
+      "If you have a perk that allows for mistakes (or brew between 00:00-04:30 with the **Dark Arts Apprentice** perk), you can skip the step of raising and lowering the **Cauldron**, immediately adding **x1 Belladonna** instead. This gives x1 less than normal."
+    ]
+  },
+  {
+    "slug": "hair-o-the-dog",
+    "no": 14,
+    "name": "Hair o’ the Dog",
+    "liquid": "Water",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Mint"
+      },
+      {
+        "qty": 1,
+        "name": "Sage"
+      },
+      {
+        "qty": 1,
+        "name": "St. John’s Wort"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 18,
+        "uncertain": true,
+        "steps": [
+          "Add **Water** to the **Cauldron**",
+          "Add **x1 Sage** & **x1 St. John’s Wort** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Mint** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the **Raise Cauldron** button",
+          "**Pour** the contents of the **Cauldron** into **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Water** to the **Cauldron**",
+          "Add **x1 Sage** & **x1 St. John’s Wort** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "Just before the **Hourglass** runs out, turn the **Hourglass** again**",
+          "When the **Hourglass** is halfway, put **x1 Mint** into the **Mortar** and **Grind** it",
+          "Put the contents of the **Mortar** into the **Dish**",
+          "**Raise** the **Cauldron**",
+          "Add the contents of the **Dish** to the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Decreases your current drunkenness."
+      },
+      {
+        "quality": "Standard",
+        "text": "Decreases your current drunkenness or cures a hangover."
+      },
+      {
+        "quality": "Strong",
+        "text": "Rapidly sobers you up and cures hangovers."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Sobers you up, cures your hangover, and temporarily removes the effects of alcoholism."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "lead-shot-gunpowder",
+    "no": 15,
+    "name": "Lead Shot Gunpowder",
+    "liquid": "Water",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Charcoal"
+      },
+      {
+        "qty": 1,
+        "name": "Saltpetre"
+      },
+      {
+        "qty": 1,
+        "name": "Sulphur"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 22,
+        "uncertain": false,
+        "steps": [
+          "Add **Water** to the **Cauldron**",
+          "Put **x1 Saltpetre** and **x1 Sulphur** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Charcoal** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into the **Mortar** and **Grind** it"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Water** to the **Cauldron**",
+          "Put **x1 Saltpetre** and **x1 Sulphur** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "When the **Hourglass** is halfway, put **x1 Charcoal** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "When the **Hourglass** is halfway, **Pour** the contents of the **Cauldron** into the **Mortar** and **Grind** it"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": false,
+        "values": [
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "secretOfSecrets": true,
+        "values": [
+          10,
+          11,
+          12,
+          13
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Standard",
+        "text": "Gunpowder used to fire lead shot that even the best plate armour can't stop at close range. For safety reasons, load only when sober."
+      }
+    ],
+    "notes": [
+      "You will die if you are under the influence of alcohol (for example drinking a saviour schnapps before brewing)"
+    ]
+  },
+  {
+    "slug": "lethean-water",
+    "no": 16,
+    "name": "Lethean Water",
+    "liquid": "Spirits",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Belladonna"
+      },
+      {
+        "qty": 1,
+        "name": "Henbane"
+      },
+      {
+        "qty": 2,
+        "name": "Wormwood"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 16,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Put **x2 Wormwood** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "Add **x1 Belladonna** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Add **x1 Henbane** to the **Cauldron**",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Put **x2 Wormwood** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "Add **x1 Belladonna** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "Just before the **Hourglass** runs out, turn the **Hourglass** again",
+          "Just before the **Hourglass** runs out the 2nd time, turn the **Hourglass** again",
+          "Just before the **Hourglass** runs out the 3rd time, **Raise** the **Cauldron**",
+          "Add **x1 Henbane** to the **Cauldron**",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Standard",
+        "text": "If you want to put to rights the imprudent choices of your life, all it takes is 1 mouthful, and you can choose your perks anew. Beware, though, the process is irreversible and painful!"
+      }
+    ],
+    "notes": [
+      "The Faster method will result in 1-2 less in quantity depending on your level"
+    ]
+  },
+  {
+    "slug": "lion-perfume",
+    "no": 17,
+    "name": "Lion Perfume",
+    "liquid": "Spirits",
+    "ingredients": [
+      {
+        "qty": 2,
+        "name": "Mint"
+      },
+      {
+        "qty": 2,
+        "name": "Sage"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 16,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Add **x2 Sage** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x2 Mint** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the **Raise Cauldron** button",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Add **x2 Sage** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x2 Mint** into the **Mortar** and **Grind** it",
+          "Put the contents of the **Mortar** into the **Dish**",
+          "**Raise** the **Cauldron**",
+          "Add the contents of the **Dish** to the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Increases Charisma by 3 for 3 minutes. If used at the same time as another perfume, lowers your Charisma by 7."
+      },
+      {
+        "quality": "Standard",
+        "text": "Increases Charisma by 4 for 3 minutes. If used at the same time as another perfume, lowers your Charisma by 7."
+      },
+      {
+        "quality": "Strong",
+        "text": "Increases Charisma by 7 for 3 minutes. If used at the same time as another perfume, lowers your Charisma by 7."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Increases Charisma by 10 for 3 minutes. If used at the same time as another perfume, lowers your Charisma by 7."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "lullaby",
+    "no": 18,
+    "name": "Lullaby",
+    "liquid": "Oil",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Herb Paris"
+      },
+      {
+        "qty": 1,
+        "name": "Poppy"
+      },
+      {
+        "qty": 1,
+        "name": "Thistle"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 16,
+        "uncertain": false,
+        "steps": [
+          "Add **Oil** to the **Cauldron**",
+          "Add **x1 Poppy** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Herb Paris** into the **Mortar** and **Grind** it",
+          "Put the contents of the **Mortar** into the **Dish**",
+          "Add **x1 Thistle** to the **Cauldron**",
+          "Add the contents of the **Dish** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the **Raise Cauldron** button",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Oil** to the **Cauldron**",
+          "Add **x1 Poppy** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "Just before the **Hourglass** runs out, add **x1 Thistle** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "Just before the **Hourglass** runs out, **Raise** the **Cauldron**",
+          "Put **x1 Herb Paris** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Reduces Energy to 0 and lowers perception."
+      },
+      {
+        "quality": "Standard",
+        "text": "Reduces Energy to 0 and lowers perception. Victims suffer 10% lower Stamina and Stamina regeneration for 6 hours."
+      },
+      {
+        "quality": "Strong",
+        "text": "Reduces Energy to 0 and lowers perception. Victims suffer 30% lower Stamina and Stamina regeneration for 12 hours."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Reduces Energy to 0 and lowers perception. Victims suffer 50% lower Stamina and Stamina regeneration for 24 hours."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "marigold-decoction",
+    "no": 19,
+    "name": "Marigold Decoction",
+    "liquid": "Water",
+    "ingredients": [
+      {
+        "qty": 2,
+        "name": "Marigold"
+      },
+      {
+        "qty": 1,
+        "name": "Nettle"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 18,
+        "uncertain": false,
+        "steps": [
+          "Add **Water** to the **Cauldron**",
+          "Add **x1 Nettle** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x2 Marigold** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the **Raise Cauldron** button",
+          "**Pour** the contents into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Water** to the **Cauldron**",
+          "Add **x1 Nettle** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x2 Marigold** into the **Mortar** and **Grind** it",
+          "Put the contents of the **Mortar** into the **Dish**",
+          "**Raise** the **Cauldron**",
+          "Add the contents of the **Dish** to the **Cauldron**",
+          "**Pour** the contents into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Heals 15 health over the course of 1 minute. Hangovers pass 50% faster."
+      },
+      {
+        "quality": "Standard",
+        "text": "Heals 25 health over the course of 1 minute. Hangovers pass 100% faster."
+      },
+      {
+        "quality": "Strong",
+        "text": "Heals 40 health over the course of 1 minute. Instantly cures hangovers."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Heals 60 health over the course of 1 minute. Instantly cures hangovers."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "mintha-perfume",
+    "no": 20,
+    "name": "Mintha Perfume",
+    "liquid": "Wine",
+    "ingredients": [
+      {
+        "qty": 3,
+        "name": "Dandelion"
+      },
+      {
+        "qty": 1,
+        "name": "Marigold"
+      },
+      {
+        "qty": 1,
+        "name": "Mint"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 18,
+        "uncertain": false,
+        "steps": [
+          "Add **Wine** to the **Cauldron**",
+          "Put **x3 Dandelion** and **x1 Mint** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Add **x1 Marigold** to the **Cauldron**",
+          "Pump the **Bellows x1** time",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Wine** to the **Cauldron**",
+          "Put **x3 Dandelion** and **x1 Mint** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "Just before the **Hourglass** runs out, turn the **Hourglass** again",
+          "Just before the **Hourglass** runs out the 2nd time, add **x1 Marigold** to the **Cauldron**",
+          "Pump the **Bellows x5** times",
+          "**Raise** the **Cauldron**",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Increases your Charisma by 1 for 20 minutes, but lowers it by 5 if used in conjunction with another perfume."
+      },
+      {
+        "quality": "Standard",
+        "text": "Increases your Charisma by 2 for 20 minutes, but lowers it by 5 if used in conjunction with another perfume."
+      },
+      {
+        "quality": "Strong",
+        "text": "Increases your Charisma by 3 for 30 minutes, but lowers it by 5 if used in conjunction with another perfume."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Increases your Charisma by 5 for 40 minutes, but lowers it by 5 if used in conjunction with another perfume."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "moonshine",
+    "no": 21,
+    "name": "Moonshine",
+    "liquid": "Spirits",
+    "ingredients": [
+      {
+        "qty": 2,
+        "name": "Mint"
+      },
+      {
+        "qty": 2,
+        "name": "Wormwood"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Add **x2 Wormwood** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x2 Mint** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          6,
+          7,
+          8,
+          11
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Standard",
+        "text": "Henry's home-made moonshine. A strong drink that is sure to put you in a good mood."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "nighthawk",
+    "no": 22,
+    "name": "Nighthawk",
+    "liquid": "Water",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Belladonna"
+      },
+      {
+        "qty": 1,
+        "name": "Chamomile"
+      },
+      {
+        "qty": 2,
+        "name": "Eyebright"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 18,
+        "uncertain": false,
+        "steps": [
+          "Add **Water** to the **Cauldron**",
+          "Put **x2 Eyebright** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "Add **x1 Belladonna** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Chamomile** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the **Raise Cauldron** button",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Water** to the **Cauldron**",
+          "Put **x2 Eyebright** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "Add **x1 Belladonna** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "Just before the **Hourglass** runs out, turn the **Hourglass** again",
+          "When the **Hourglass** is halfway, put **x1 Chamomile** into the **Mortar** and **Grind** it",
+          "Put the contents of the **Mortar** into the **Dish**",
+          "**Raise** the **Cauldron**",
+          "Add the contents of the **Dish** to the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "You gain enhanced night vision for 10 minutes."
+      },
+      {
+        "quality": "Standard",
+        "text": "You gain enhanced night vision for 15 minutes. Your Energy depletes 25% slower."
+      },
+      {
+        "quality": "Strong",
+        "text": "You gain enhanced night vision for 20 minutes. Your Energy depletes 50% slower."
+      },
+      {
+        "quality": "Henry's",
+        "text": "You gain enhanced night vision for 25 minutes. While the potion lasts, your Energy does not deplete at all."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "painkiller-brew",
+    "no": 23,
+    "name": "Painkiller Brew",
+    "liquid": "Spirits",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Comfrey"
+      },
+      {
+        "qty": 1,
+        "name": "Marigold"
+      },
+      {
+        "qty": 3,
+        "name": "Poppy"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 20,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Put **x3 Poppy** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "Add **x1 Marigold** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Pump the **Bellows x1** time",
+          "Add **x1 Comfrey** to the **Cauldron**",
+          "**Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Spirits** to the **Cauldron**",
+          "Put **x3 Poppy** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "Add **x1 Marigold** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Pump the **Bellows x5 times",
+          "Add **x1 Comfrey** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "Just before the **Hourglass** runs out, **Distil** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Your maximum Stamina decreases 15% less than your health for 10 minutes. Injuries do not impede Henry's actions for the potion's duration."
+      },
+      {
+        "quality": "Standard",
+        "text": "Your maximum Stamina decreases 30% less than your health for 15 minutes. Injuries do not impede Henry's actions for the potion's duration."
+      },
+      {
+        "quality": "Strong",
+        "text": "Your maximum Stamina decreases 50% less than your health for 20 minutes. Injuries do not impede Henry's actions for the potion's duration."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Your maximum Stamina decreases 75% less than your health for 25 minutes. Injuries do not impede Henry's actions for the potion's duration."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "quickfinger",
+    "no": 24,
+    "name": "Quickfinger",
+    "liquid": "Water",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Cobweb"
+      },
+      {
+        "qty": 2,
+        "name": "Eyebright"
+      },
+      {
+        "qty": 2,
+        "name": "Valerian"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 24,
+        "uncertain": false,
+        "steps": [
+          "Add **Water** to the **Cauldron**",
+          "Add **x1 Cobweb** and **x2 Eyebright** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x2 Valerian** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Water** to the **Cauldron**",
+          "Add **x1 Cobweb** and **x2 Eyebright** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "Wait until the **Hourglass** runs out",
+          "Put **x2 Valerian** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "When the **Hourglass** is halfway, **Raise** the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Increases Craftsmanship and Thievery by 2 for 20 minutes."
+      },
+      {
+        "quality": "Standard",
+        "text": "Increases Craftsmanship and Thievery by 4 for 20 minutes."
+      },
+      {
+        "quality": "Strong",
+        "text": "Increases Craftsmanship and Thievery by 6 for 20 minutes."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Increases Craftsmanship and Thievery by 8 for 60 minutes."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "saviour-schnapps",
+    "no": 25,
+    "name": "Saviour Schnapps",
+    "liquid": "Wine",
+    "ingredients": [
+      {
+        "qty": 2,
+        "name": "Belladonna"
+      },
+      {
+        "qty": 1,
+        "name": "Nettle"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 22,
+        "uncertain": false,
+        "steps": [
+          "Add **Wine** to the **Cauldron**",
+          "Add **x1 Nettle** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x2 Belladonna** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Pour** contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Wine** to the **Cauldron**",
+          "Add **x1 Nettle** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x2 Belladonna** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "When the **Hourglass** is halfway, **Raise** the **Cauldron**",
+          "**Pour** contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Weak",
+        "text": "Saves your game. You'll start from exactly where you were standing when you drank the schnapps."
+      },
+      {
+        "quality": "Standard",
+        "text": "Saves your game, restores 10 health, and boosts your Strength, Vitality, and Agility by 1 for 3 minutes."
+      },
+      {
+        "quality": "Strong",
+        "text": "Saves your game, restores 20 health, and boosts your Strength, Vitality, and Agility by 2 for 3 minutes."
+      },
+      {
+        "quality": "Henry's",
+        "text": "Saves your game, restores 30 health, and boosts your Strength, Vitality, and Agility by 3 for 3 minutes."
+      }
+    ],
+    "notes": []
+  },
+  {
+    "slug": "scattershot-powder",
+    "no": 26,
+    "name": "Scattershot Powder",
+    "liquid": "Water",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Leached Coal"
+      },
+      {
+        "qty": 1,
+        "name": "Saltpetre"
+      },
+      {
+        "qty": 1,
+        "name": "Sulphur"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 14,
+        "uncertain": false,
+        "steps": [
+          "Add **Water** to the **Cauldron**",
+          "Put **x1 Saltpetre** and **x1 Sulphur** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Leached Coal** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into the **Mortar** and **Grind** it"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Water** to the **Cauldron**",
+          "Put **x1 Saltpetre** and **x1 Sulphur** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "Just before the **Hourglass** runs out, turn the **Hourglass**",
+          "When the **Hourglass** is halfway, put **x1 Leached Coal** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into the **Mortar** and **Grind** it"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": false,
+        "values": [
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "secretOfSecrets": true,
+        "values": [
+          15,
+          16,
+          17,
+          18
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Standard",
+        "text": "Gunpowder used to fire scrap iron and other small projectiles. Will pierce anything with ease at close range, but is ineffective at long range. For safety reasons, load only when sober."
+      }
+    ],
+    "notes": [
+      "You will die if you are under the influence of alcohol (for example drinking a saviour schnapps before brewing)"
+    ]
+  },
+  {
+    "slug": "soap",
+    "no": 27,
+    "name": "Soap",
+    "liquid": "Oil",
+    "ingredients": [
+      {
+        "qty": 1,
+        "name": "Charcoal"
+      },
+      {
+        "qty": 1,
+        "name": "Dandelion"
+      },
+      {
+        "qty": 2,
+        "name": "Thistle"
+      }
+    ],
+    "variants": [
+      {
+        "minLevel": 16,
+        "uncertain": false,
+        "steps": [
+          "Add **Oil** to the **Cauldron**",
+          "Put **x2 Thistle** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Charcoal** into the **Mortar** and **Grind** it",
+          "Put the contents of the **Mortar** into the **Dish**",
+          "Add **x1 Dandelion** to the **Cauldron**",
+          "Add the contents of the **Dish** to the **Cauldron**",
+          "While the animation is playing, **Raise** the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      },
+      {
+        "minLevel": null,
+        "uncertain": false,
+        "steps": [
+          "Add **Oil** to the **Cauldron**",
+          "Put **x2 Thistle** into the **Mortar** and **Grind** it",
+          "Add the contents of the **Mortar** to the **Cauldron**",
+          "**Lower** the **Cauldron**",
+          "Put **x1 Charcoal** into the **Mortar** and **Grind** it",
+          "Put the contents of the **Mortar** into the **Dish**",
+          "Add **x1 Dandelion** to the **Cauldron**",
+          "While the animation is playing, repeatedly press the turn **Hourglass** button",
+          "Just before the **Hourglass** runs out, **Raise** the **Cauldron**",
+          "Add the contents of the **Dish** to the **Cauldron**",
+          "**Pour** the contents of the **Cauldron** into a **Phial**"
+        ]
+      }
+    ],
+    "yields": [
+      {
+        "secretOfSecrets": null,
+        "values": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "quality": "Standard",
+        "text": "You can't wash your own clothes without soap."
+      }
+    ],
+    "notes": []
+  }
+]
