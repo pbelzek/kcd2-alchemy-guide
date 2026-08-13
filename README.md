@@ -1,4 +1,4 @@
-# Henry's Alchemy Bench
+# KCD2 Alchemy guide
 
 > [!WARNING]
 > **This project was built entirely with AI.** The code, the content and this

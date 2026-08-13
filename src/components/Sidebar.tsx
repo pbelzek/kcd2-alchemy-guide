@@ -19,7 +19,7 @@ export function Sidebar() {
         <Link href="/" className="block">
           <span className="label">Kingdom Come: Deliverance II</span>
           <h1 className="font-display text-xl leading-tight text-ink">
-            Henry&rsquo;s Alchemy Bench
+            Alchemy guide
           </h1>
         </Link>
 

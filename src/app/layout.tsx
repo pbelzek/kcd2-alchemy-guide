@@ -29,8 +29,8 @@ const body = Spectral({
 
 export const metadata: Metadata = {
   title: {
-    default: "Henry's Alchemy Bench — KCD2 potion recipes",
-    template: "%s — Henry's Alchemy Bench",
+    default: "KCD2 Alchemy guide — potion recipes",
+    template: "%s — KCD2 Alchemy guide",
   },
   description:
     "Searchable Kingdom Come: Deliverance 2 alchemy recipes, with the brewing method matched to your alchemy level and perks.",

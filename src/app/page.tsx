@@ -10,7 +10,7 @@ export default function HomePage() {
     <div className="mx-auto flex w-full max-w-2xl flex-1 flex-col justify-center px-8 py-10">
       <span className="label">Kingdom Come: Deliverance II</span>
       <h1 className="mt-1 font-display text-4xl leading-tight text-ink">
-        Henry&rsquo;s Alchemy Bench
+        Alchemy guide
       </h1>
       <p className="mt-3 max-w-prose text-[1.0625rem] leading-normal text-muted">
         All {recipes.length} alchemy recipes in the game, with the brewing steps
