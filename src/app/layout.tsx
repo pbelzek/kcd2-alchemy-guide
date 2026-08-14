@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { EB_Garamond, Spectral } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import { GuideShell } from "@/components/GuideShell";
 import "./globals.css";
 
@@ -48,6 +49,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     <html lang="en" className={`${garamond.variable} ${body.variable} antialiased`}>
       <body>
         <GuideShell>{children}</GuideShell>
+        <Analytics />
       </body>
     </html>
   );
