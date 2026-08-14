@@ -18,7 +18,7 @@ export function GuideShell({ children }: { children: ReactNode }) {
   const showingRecipe = pathname !== "/";
 
   return (
-    <div className="mx-auto flex h-dvh max-w-[100rem] md:gap-0">
+    <div className="flex h-dvh w-full">
       <aside
         className={`${
           showingRecipe ? "hidden md:flex" : "flex"
